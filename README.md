@@ -2,9 +2,23 @@
 
 Este proyecto es una aplicación web construida utilizando React y Vite. Es mi primera vez trabajando con estas tecnologías, y este proyecto me ha permitido aprender y explorar sus características y ventajas.
 
+## Nota 
+Este es mi primer acercamiento con el la libreria de React
+Dearrolle un proyecto en fron end para demostrar mis habilidades y que puedan evaluar los conocimientos que tengo, esto realizado en las siguientes tecnologia:
+- **Vue3**
+- **Pinia Store**
+- **Vue-Router**
+- **TailwindCss**
+
+Puedes visualziarlo en el siguiente repositorio:
+  ```bash
+    https://github.com/Cybernelsk8/app-vue-emetra.git
+  ```
+
 ## Descripción del Proyecto
 
 El objetivo de este proyecto es un crud de notas. A través de este proyecto, he aprendido a configurar un entorno de desarrollo con Vite y a construir componentes reutilizables con React.
+Se trato de crear varios compostables para la reutilizacion y optimizacion de codigo.
 
 ## Tecnologías Utilizadas
 
