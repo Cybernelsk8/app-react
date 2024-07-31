@@ -25,7 +25,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
     ```
 3. Crear un arhivo de etorno `.env.local` en la raiz del proyecto y agrega la llave:
     ```bash
-    VITE_URL_API = http://localhost/{el nombre del backend}/public/
+    VITE_API_URL = http://localhost/{el nombre del backend}/public/
     ```
 4. Inicia el servidor de desarrollo:
     ```bash
