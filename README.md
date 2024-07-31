@@ -14,10 +14,6 @@ El objetivo de este proyecto es un crud de notas. A través de este proyecto, he
 - **FontAwesome** : Libreria de iconos
 - **Axios**: Paquete que ayuda a las peticiones hacia el API
   
-## Explicaciónes:
-Se configuro el proyecto agregandole un archivo `.htaccess` para redireccionar las respuestas hacia el index del proyecto ubicado en la carpeta public.
-
-
 ## Instalación
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
